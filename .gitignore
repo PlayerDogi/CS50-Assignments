@@ -1,0 +1,13 @@
+# Derleme dosyalarını hariç tut
+*.o
+*.out
+*.exe
+
+# CS50 kütüphanesi ve derleme log dosyaları
+*.log
+__pycache__/
+*.swp
+
+# Mac ve Linux sistem dosyaları
+.DS_Store
+.vscode/
